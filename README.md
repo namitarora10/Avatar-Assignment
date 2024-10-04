@@ -40,13 +40,6 @@ This repository contains executable code that takes an image of an object (with 
 
 ![Generated Image](./generated_image.png)
 
-### Generated Video (Frames Extract)
-
-![Frame 1](./frames/frame_1.png)
-![Frame 5](./frames/frame_5.png)
-![Frame 10](./frames/frame_10.png)
-
-*Note: The full video can be viewed in the `output_video.mp4` file.*
 
 ## Installation
 
