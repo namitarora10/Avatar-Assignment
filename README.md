@@ -36,7 +36,7 @@ This repository contains executable code that takes an image of an object (with 
 
 ![Input Image](./input_image.png)
 
-### Generated Image with Prompt: "A pan in a modern kitchen used in meal preparation"
+### Generated Image with Prompt: "A bottle in a modern kitchen used in meal preparation"
 
 ![Generated Image](./generated_image.png)
 
